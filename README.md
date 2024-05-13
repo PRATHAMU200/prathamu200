@@ -1,12 +1,12 @@
 # 💫About Me :
-🔭 I’m currently working on some opensource projects.
-🌱 I’m currently in the field of Programming | AI | CyberSecurity.
-👯 I’m looking to collaborate on Any project related to my field.
-🤔 I’m looking for help with on how to earn some followers and badges on github.
-💬 Ask me about anything.
-📫 How to reach me: By my twitter @mercykknight
-😄 Pronouns: He/Him
-⚡ Fun fact: As a gas giant, Jupiter doesn't have a true surface. So wanna experience a free fall?😉
+I'm a second-year Electrical Engineering student 🎓 from Delhi Technological University, graduating in 2026. I have a burning passion for programming 💻, development, and working on innovative projects 🚀. I'm always on the lookout for learning about new and upcoming technologies 🛠️ and making meaningful contributions to them.
+
+## My Interests 💡
+
+- **Programming & Development**: I love coding and have worked on several projects, which you can find in my repositories. 📚
+- **Emerging Technologies**: I'm fascinated by the potential of new technologies and always looking to learn more and contribute to these areas. 🌐
+- **Open Source**: I believe in the power of community and love contributing to open-source projects. ❤️
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamu200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mercykknight) 
@@ -21,10 +21,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=prathamu200&icon=0&color=0)](https://visitcount.itsvg.in)
+⚡ Fun fact: As a gas giant, Jupiter doesn't have a true surface. So wanna experience a free fall?😉
 
 
